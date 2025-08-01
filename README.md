@@ -10,15 +10,36 @@ Welcome to **100_days_100_web_project** – a challenge-based repository to **le
 
 | Day | Project Name | Folder Link | Description |
 |-----|--------------|-------------|-------------|
-| DAY-1 | TODOLIST | [TODOLIST]() | Task manager app |
-| DAY-2 | DIGITAL CLOCK | [DIGITAL CLOCK]() | Real-time digital clock |
-| DAY-3 | Weather App | [Weather APP]() | Real-time weather information using OpenWeatherMap API |
-| Day 5  | **Random Image Generator**      | [RANDOM IMAGE GENERATOR](https://100daysof100webprojects.netlify.app/public/day05/index.html)       | Generates a random image using javascript|
-| Day 6  | **Calculator**      | [Link]()       | Basic calculator functionality|
-| Day 7  | **Calculator**      | [Link]()       | Basic calculator functionality|
-| Day 8  | **Calculator**      | [Link]()       | Basic calculator functionality|
-| Day 9  | **Calculator**      | [Link]()       | Basic calculator functionality|
-| DAY-10 | MEMORY CARD GAME | [Memory Card Game]() | Memory Card Matching Game |
+| DAY-1 | **TODOLIST** | [TODOLIST]() | Task manager app |
+| DAY-2 | **DIGITAL** **CLOCK** | [DIGITAL CLOCK]() | Real-time digital clock |
+| DAY-3 | **Weather App** | [Weather APP]() | Real-time weather information using OpenWeatherMap API |
+| DAY-4 | **Jewellery-company landing page** | [COMPANY LANDING PAGE]() | It is a jewellery company landing page |
+| DAY-5  | **Random Image Generator**      | [RANDOM IMAGE GENERATOR]()       | Generates a random image using javascript|
+| DAY-6  | **New Year Countdown**      | [NEW YEAR COUNTDOWN]()       | A clock which shows the new year countdown |
+| DAY-7  | **Stylish Animated loginpage**      | [Stylish Animated loginpage]()       | Basic calculator functionality|
+| DAY-8  | **Calculator**      | [Link]()       | Basic calculator functionality|
+| DAY-9  | **Calculator**      | [Link]()       | Basic calculator functionality|
+| DAY-10 | **MEMORY CARD GAME** | [Memory Card Game]() | Memory Card Matching Game |
+| DAY-11 | **Calculator**      | [Link]()       | Basic calculator functionality|
+| DAY-12 | **Calculator**      | [Link]()       | Basic calculator functionality|
+| DAY-13 | **Calculator**      | [Link]()       | Basic calculator functionality|
+| DAY-14 | **Calculator**      | [Link]()       | Basic calculator functionality|
+| DAY-15 | **Calculator**      | [Link]()       | Basic calculator functionality|
+| DAY-16 | **Calculator**      | [Link]()       | Basic calculator functionality|
+| DAY-17 | **Calculator**      | [Link]()       | Basic calculator functionality|
+| DAY-18 | **Calculator**      | [Link]()       | Basic calculator functionality|
+| DAY-19 | **Calculator**      | [Link]()       | Basic calculator functionality|
+| DAY-20 | **Calculator**      | [Link]()       | Basic calculator functionality|
+| DAY-21 | **Calculator**      | [Link]()       | Basic calculator functionality|
+| DAY-22 | **Calculator**      | [Link]()       | Basic calculator functionality|
+| DAY-23 | **Calculator**      | [Link]()       | Basic calculator functionality|
+| DAY-24 | **Calculator**      | [Link]()       | Basic calculator functionality|
+| DAY-25 | **Calculator**      | [Link]()       | Basic calculator functionality|
+| DAY-26 | **Calculator**      | [Link]()       | Basic calculator functionality|
+| DAY-27 | **Calculator**      | [Link]()       | Basic calculator functionality|
+| DAY-28 | **Calculator**      | [Link]()       | Basic calculator functionality|
+| DAY-29 | **Calculator**      | [Link]()       | Basic calculator functionality|
+| DAY-30 | **Calculator**      | [Link]()       | Basic calculator functionality|
 
 | Day 100+ | **Coming Soon**  | 🚧             | 🚧                           |
 
