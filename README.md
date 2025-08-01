@@ -13,7 +13,11 @@ Welcome to **100_days_100_web_project** – a challenge-based repository to **le
 | DAY-1 | TODOLIST | [TODOLIST]() | Task manager app |
 | DAY-2 | DIGITAL CLOCK | [DIGITAL CLOCK]() | Real-time digital clock |
 | DAY-3 | Weather App | [Weather APP]() | Real-time weather information using OpenWeatherMap API |
-| Day 4  | **Calculator**      | [Link]()       | Basic calculator functionality|
+| Day 5  | **Random Image Generator**      | [RANDOM IMAGE GENERATOR](https://100daysof100webprojects.netlify.app/public/day05/index.html)       | Generates a random image using javascript|
+| Day 6  | **Calculator**      | [Link]()       | Basic calculator functionality|
+| Day 7  | **Calculator**      | [Link]()       | Basic calculator functionality|
+| Day 8  | **Calculator**      | [Link]()       | Basic calculator functionality|
+| Day 9  | **Calculator**      | [Link]()       | Basic calculator functionality|
 | DAY-10 | MEMORY CARD GAME | [Memory Card Game]() | Memory Card Matching Game |
 
 | Day 100+ | **Coming Soon**  | 🚧             | 🚧                           |
